@@ -1,0 +1,18 @@
+<application>
+  <component name="PrintSettings">
+    <option name="includeSubdirectories" value="true" />
+    <option name="printScope" value="4" />
+    <option name="COLOR_PRINTING" value="true" />
+    <option name="PRINT_AS_GRAPHICS" value="false" />
+    <option name="FONT_NAME" value="Courier" />
+    <option name="FONT_SIZE" value="9" />
+    <option name="BOTTOM_MARGIN" value="0.5" />
+    <option name="LEFT_MARGIN" value="0.5" />
+    <option name="RIGHT_MARGIN" value="0.5" />
+    <option name="DRAW_BORDER" value="false" />
+    <option name="FOOTER_HEADER_TEXT1" value="$FILE$" />
+    <option name="FOOTER_HEADER_ALIGNMENT1" value="Center" />
+    <option name="FOOTER_HEADER_ALIGNMENT2" value="Right" />
+    <option name="FOOTER_HEADER_FONT_NAME" value="Courier" />
+  </component>
+</application>
